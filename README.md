@@ -5,7 +5,7 @@ O projeto foi desenvolvido em WordPress seguindo as diretrizes da SECOM e també
 
 
 ## O projeto 
-Layout desenvolvido para WordPress, com base nas normativas SECOM.
+Layout desenvolvido para WordPress, com base nas normativas SECOM no ano de 2018.
 
 Seções:
 1. Publicação 
