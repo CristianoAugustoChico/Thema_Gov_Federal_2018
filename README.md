@@ -13,7 +13,7 @@ Seções:
 3. Notícias 
 4. Áreas temáticas
 
-Todas as seções são custom-posts desenvolvidas para atender as necessidades do centro na época. 
+Todas as seções são custom-post desenvolvidas para atender as necessidades do centro na época. 
 O sistema consta também com os códigos de rastreio de eventos do Google Analytics e algumas estratégias de SEO já adicionadas direto no código fonte.
 
 ### Estrutura básica dos sistema:
